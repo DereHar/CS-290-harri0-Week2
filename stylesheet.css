@@ -1,0 +1,50 @@
+#div1{
+    background-color:deeppink;
+    width:75%;
+    height: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#div2{
+    background-color:blue;
+    width:75%;
+    height: 25px;
+    margin: 0 auto;
+}
+
+
+/*<p>
+    <label for="text_input">text_input:</label>
+    <br />
+    <textarea rows="4" cols="40" id="comments"></textarea>
+</p>
+
+*/
+
+/*<label>
+    Email:
+  <input type="email" name="email" size="30" maxlength="100">
+  </label>
+  <br />
+
+*/
+
+/*
+                 <p>
+                     <label for="hear-about">How did you hear about us?</label>
+                     <select name="candy" id="hear-about">
+                         <option value="google">Google</option>
+                         <option value="friend">Friend</option>
+                         <option value="advert">Advert</option>
+                         <option value="other">Other</option>
+                     </select>
+                 </p>
+*/
+
+/*
+                 <label>
+                     <input type="checkbox" name="subscribe" checked="checked" />Sign me up for email updates
+                 </label>
+
+*/
